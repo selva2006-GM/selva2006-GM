@@ -1,7 +1,5 @@
 ## 🌐 My Portfolio
 
-[![Portfolio Website](./assets/portfolio-preview.png)](https://selvacodes.online/)
+[![Portfolio Website](https://selvacodes.online/)](https://selvacodes.online/)
 
-**🚀 Explore my live portfolio:** [selvacodes.online](https://selvacodes.online/)
-
-Discover my projects, skills, and development journey.
+🚀 **Explore my live portfolio:** [selvacodes.online](https://selvacodes.online/)
