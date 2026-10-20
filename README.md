@@ -17,9 +17,8 @@ I'm passionate about software development, problem-solving, and building practic
 
 ## Connect With Me
 
-- **GitHub:** [selva2006-GM](https://github.com/selva2006-GM)
 - **LinkedIn:** [Selva Ganesh](https://www.linkedin.com/in/sselvaganesh2006/)
-- **LeetCode:** [s_selva](https://leetcode.com/u/s_selva/)
+- **Codolio:** [ganesh2006]((https://codolio.com/profile/ganesh2006))
 
 ---
 
